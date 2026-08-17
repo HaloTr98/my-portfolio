@@ -1,6 +1,6 @@
 {
   "name": "Velorah",
-  "description": "An elegant, single-page cinematic hero section featuring a looping background video, glassmorphic navigation bar, and early access modal drawer.",
+  "description": "Cinematic Director Portfolio & Commercial Production Archive with Project Inquiry Form integration.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
